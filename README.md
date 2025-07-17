@@ -1,4 +1,3 @@
-<img width="2880" height="1644" alt="image" src="https://github.com/user-attachments/assets/793635c4-9617-499d-8b3b-f499677eb93b" /># 📌 PostIt – A Full-Stack Social Media Application
 
 **Developed by:** Uppuluri Hema Sai Ganesh  
 **University:** VIT-AP University  
@@ -10,6 +9,7 @@
 ## ✨ Overview
 
 **PostIt** is a fully-featured social media web application built using the MERN stack. It supports posting, commenting, messaging, and user interaction — designed to be responsive and interactive across devices.
+<img width="2880" height="1644" alt="image" src="https://github.com/user-attachments/assets/793635c4-9617-499d-8b3b-f499677eb93b" /># 📌 PostIt – A Full-Stack Social Media Application
 
 ---
 
@@ -83,11 +83,6 @@ npm start
 <img width="2880" height="1646" alt="image" src="https://github.com/user-attachments/assets/8c7977ef-56fc-43a5-839f-c720d39cbd03" />
 
 
-🙋‍♂️ Author
-Uppuluri Hema Sai Ganesh
-📍 VIT-AP University
-📧 saiganesh407@gmail.com
-🔗 GitHub: @Hemasaiganesh
 
 🙋‍♂️ Author
 Uppuluri Hema Sai Ganesh
