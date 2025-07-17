@@ -1,4 +1,4 @@
-# 📌 PostIt – A Full-Stack Social Media Application
+<img width="2880" height="1644" alt="image" src="https://github.com/user-attachments/assets/793635c4-9617-499d-8b3b-f499677eb93b" /># 📌 PostIt – A Full-Stack Social Media Application
 
 **Developed by:** Uppuluri Hema Sai Ganesh  
 **University:** VIT-AP University  
@@ -29,71 +29,68 @@
 - 📊 Sort posts by like count, comment count, and creation date
 - ✅ Fully responsive design for all devices
 
----
-
-## 🛠 Installation & Usage
-
-### 1. Clone the repository:
-```bash
-git clone https://github.com/your-username/social-media-app.git
-cd social-media-app
-PostIt
-PostIt is a fully-featured social media web application, built with the MERN stack.
-
-Deployed at: https://post-it-heroku.herokuapp.com/
-GIF of PostIt walkthrough
-
-Features
-Create, read, update and delete posts
-Like and unlike posts
-Create, reply to, read, update and delete nested comments
-Markdown for posts and comments
-Sign up and login using JWT for authentication
-Private message users in real-time using socket.io
-View profiles of users and browse through their posts, liked posts and comments
-Infinite scrolling
-Sort posts by attributes such as like count, comment count and date created
-Profanity filtering and posting/commenting cooldowns
-Update bio which can be viewed by other users
-Search for posts by their title
-View the users who liked a particular post
-Fully responsive layout
-Installation and usage
-Clone this repository
-git clone https://github.com/ihtasham42/social-media-app.git
-Install dependencies
-cd social-media-app  
+2. Install Backend Dependencies
+bash
 npm install
+3. Install Frontend Dependencies
+bash
 cd client
 npm install
-Create .env in root directory
+4. Set Up Environment Variables
+Go back to the root and create .env:
+
+bash
 cd ..
 touch .env
-Configure environment variables in your new .env file. To acquire your MONGO_URI, create a cluster for free over at https://www.mongodb.com/. The TOKEN_KEY is a secret key of your choosing, you can generate one at this site: https://randomkeygen.com/.
-MONGO_URI=<YOUR_MONGO_URI> 
-TOKEN_KEY=<YOUR_TOKEN_KEY>
+In .env, add:
+
+env
+MONGO_URI=<your_mongodb_uri>
+TOKEN_KEY=<your_jwt_secret>
 PORT=4000
-Run the server
+🔑 Generate a secure TOKEN_KEY at https://randomkeygen.com
+📦 Get a MONGO_URI by creating a free cluster at https://www.mongodb.com/
+5. Run Backend Server
+bash
+Edit
 npm run server
-Start a new terminal and run react's development server
-cd social-media-app
+6. Run React Client in a New Terminal
+bash
 cd client
 npm start
-Screenshots
-Explore view
-image
+📸 Screenshots
+🧭 Explore View
+<img width="2880" height="1644" alt="image" src="https://github.com/user-attachments/assets/73f34c7b-e933-4b34-8ad3-3f74379e3055" />
 
-Post view
-image
+📝 Post View
+<img width="2880" height="1642" alt="image" src="https://github.com/user-attachments/assets/d989a629-0814-4d21-b580-f6f4249f6e91" />
 
-Nested comments
-image
 
-Profile view
-image
 
-Real-time private messenger
-image
+💬 Nested Comments
+<img width="2880" height="1644" alt="image" src="https://github.com/user-attachments/assets/4655d7fe-4735-4989-8a45-c8e2fb73a87f" />
 
-Search view
-image
+
+👤 Profile View
+<img width="2880" height="1642" alt="image" src="https://github.com/user-attachments/assets/c59751e2-5456-4da6-9b92-b7993bc5e4e5" />
+
+
+📬 Real-Time Messaging
+<img width="2880" height="1646" alt="image" src="https://github.com/user-attachments/assets/c97ace11-70f6-4aca-ae1a-a65040b2071c" />
+
+
+🔍 Search View
+<img width="2880" height="1646" alt="image" src="https://github.com/user-attachments/assets/8c7977ef-56fc-43a5-839f-c720d39cbd03" />
+
+
+🙋‍♂️ Author
+Uppuluri Hema Sai Ganesh
+📍 VIT-AP University
+📧 saiganesh407@gmail.com
+🔗 GitHub: @Hemasaiganesh
+
+🙋‍♂️ Author
+Uppuluri Hema Sai Ganesh
+📍 VIT-AP University
+📧 saiganesh407@gmail.com
+🔗 GitHub: @Hemasaiganesh
