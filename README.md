@@ -1,3 +1,42 @@
+# 📌 PostIt – A Full-Stack Social Media Application
+
+**Developed by:** Uppuluri Hema Sai Ganesh  
+**University:** VIT-AP University  
+**Tech Stack:** MongoDB, Express, React, Node.js (MERN)  
+**Deployed at:** [https://post-it-heroku.herokuapp.com](https://post-it-heroku.herokuapp.com)
+
+---
+
+## ✨ Overview
+
+**PostIt** is a fully-featured social media web application built using the MERN stack. It supports posting, commenting, messaging, and user interaction — designed to be responsive and interactive across devices.
+
+---
+
+## 🚀 Features
+
+- ✅ Create, read, update, and delete posts
+- 👍 Like and unlike posts
+- 💬 Create, reply to, update, and delete **nested comments**
+- 📝 Support for **Markdown** in posts and comments
+- 🔐 **JWT Authentication** for Sign up and Login
+- 💬 Real-time **private messaging** via socket.io
+- 👤 User profiles with posts, liked posts, and comments
+- 📜 Infinite scrolling
+- 🔍 Search for posts by title
+- ⏱ Cooldowns for posting/commenting + **profanity filtering**
+- 🧾 View bios and liked-posts of users
+- 📊 Sort posts by like count, comment count, and creation date
+- ✅ Fully responsive design for all devices
+
+---
+
+## 🛠 Installation & Usage
+
+### 1. Clone the repository:
+```bash
+git clone https://github.com/your-username/social-media-app.git
+cd social-media-app
 PostIt
 PostIt is a fully-featured social media web application, built with the MERN stack.
 
